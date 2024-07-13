@@ -1,4 +1,4 @@
-# S&P 500 Data Analysis
+## S&P 500 Data Analysis
 The Standard and Poor's 500, or simply the S&P 500, is a stock market index tracking the stock performance of 500 of the largest companies listed on stock exchanges in the United States.
 
 ### Table of Contents
