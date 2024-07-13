@@ -17,8 +17,8 @@ This data analysis project aims to provide insights into the revenue and market 
 The primary dataset used for this analysis was downloaded from Kaggle.com and there are three different files- sp500_companies.csv, sp500_index.csv and sp500_stocks.csv containing detailed information about each industrial sector which form the overall larger group classified as S&P 500.
 
 ### Tools Used
-- Microsoft Excel for Data Cleaning
-- Tableau for Data Analysis and Creating Reports
+- Microsoft Excel.
+- Tableau.
 
 ### Data Cleaning/Preparation
 In the initial data preparation phase we performed the following tasks:
