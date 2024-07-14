@@ -83,6 +83,8 @@ https://public.tableau.com/app/profile/anam.vakil/viz/SPFinanceAnalysisGithub/Fi
 ### Conclusion
  All the above-given dashboards present the data in different types of charts and graphs. This helps us to easily and quantitatively study various aspects related to the performance of the S&P 500 industries in the past. Finally, these dashboards also allow us to analyze how different aspects of these industries had an impact on their overall rise or decline as a part of the S&P 500.
 
+__NOTE__: All the files related to this project have been uploaded to GitHub except the main dataset due to size limitations. Please use [this link](https://file.io/oChxWwrYK2lA) to download the dataset.
+
 ### References:
  - [Tableau Certified Data Analyst: Top Exam Prep Course by Lukas Halim](https://www.udemy.com/share/101Wus3@cLobZ0XBRNKwQjuZbMQquN4BG6LhCksrBekTXv271XYkDmR6A2ftFbSGLQBij6bwAA==/)
  - [Kaggle.](https://www.kaggle.com/)
